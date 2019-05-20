@@ -1,3 +1,2 @@
 # SPK_ap
-DDS aplication with python 
-asashak
+DDS aplication with ci
